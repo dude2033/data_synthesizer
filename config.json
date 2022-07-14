@@ -1,0 +1,20 @@
+{
+    "Input File" : "split1.csv",
+    "Output File" : "output.csv",
+    "Percentage" : 0.80,
+    "N_samples" : 2000,
+    "Features" : {
+        "Cancer Type Detailed" : ["categorical", ""], 
+        "Mutation Count" : ["numerical", "integer"],
+        "Oncotree Code" : ["categorical", ""],
+        "Overall Survival (Months)" : ["numerical", "float"],
+        "Treatment Details before PDX" : ["categorical", ""],
+        "Neoplasm Histologic Grade" : ["categorical", ""],
+        "Diagnosis Age" : ["numerical", "integer"],
+        "Sample Type" : ["categorical", ""],
+        "TERT" : ["categorical", ""],
+        "IDH1" : ["categorical", ""],
+        "PTEN" : ["categorical", ""],
+        "PABPC3" : ["categorical", ""]
+    }
+}
