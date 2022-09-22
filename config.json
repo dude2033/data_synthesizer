@@ -1,7 +1,7 @@
 {
-    "Input File" : "split1.csv",
+    "Input File" : "combined.csv",
     "Output File" : "output.csv",
-    "Percentage" : 0.80,
+    "Percentage" : 1,
     "N_samples" : 2000,
     "Features" : {
         "Cancer Type Detailed" : ["categorical", ""], 
@@ -15,6 +15,12 @@
         "TERT" : ["categorical", ""],
         "IDH1" : ["categorical", ""],
         "PTEN" : ["categorical", ""],
+        "SPRY3" : ["categorical", ""],
+        "MUC12" : ["categorical", ""],
+        "GXYLT1" : ["categorical", ""],
+        "SMARCA4" : ["categorical", ""],
+        "FAT1" : ["categorical", ""],
+        "MUC5B" : ["categorical", ""],
         "PABPC3" : ["categorical", ""]
     }
 }
