@@ -1,5 +1,5 @@
-The data_synthesizer is a tool to generate usefull data similar to input data given in a csv file.
-To run the synthesizer configure a file named "config.csv" detailing the output you want to generate.
+The data_synthesizer is a tool to generate useful data similar to input data given in a csv file.
+To run the synthesizer configure a file named "config.json" detailing the output you want to generate.
 An example config file is provided.
 
 Features: The headers of the colums of your input file you want to include in the new data. (string)
