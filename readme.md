@@ -1,9 +1,10 @@
 The data_synthesizer - a tool to generate useful data similar to input data given in a csv file.
 -
 
+
 This project presents a Jupyter Notebook for running python code to create a synthetic data file out of a dataset, that has to be translated. 
 To open the respective Jupyter Notebook please see the file [data_synthesizer.ipynb](https://github.com/dude2033/data_synthesizer/blob/master/data_synthesizer.ipynb).
--
+
 
 To run the synthesizer with your desired configuration, use the file named "config.json", describing the output you want to generate.
 An example config file is provided.
