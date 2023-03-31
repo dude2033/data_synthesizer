@@ -12,7 +12,7 @@ These are the configurable parameters:
 
 
 * Input File: Path+name of the input data file, that shall be used for data generation, given as string. 
-* Input Column Separator: Most csv files have a "," separator, however use semicolons ";" or tabs "\t" instead. Please then specify with this config parameter.
+* Input Column Separator: Most csv files have a "," separator, however some also use semicolons ";" or tabs "\t" instead. Please then specify with this config parameter.
 * Output file: Path+name of the file where we want the output to be written to.
 * Percentage: A floating point number, which designates the percentage of non-NaN in input to be taken into account. The maximum percentage of non-numeric types that you want to allow in any column in input, as float, ranging from 0.0 to 1.0.
 entries a column must have to be considered for data generation. 
