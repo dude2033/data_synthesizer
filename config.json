@@ -1,5 +1,6 @@
 {
     "Input File" : "combined.csv",
+	"Input Column Separator"	:	";",
     "Output File" : "output.csv",
     "Percentage" : 1,
     "N_samples" : 2000,
