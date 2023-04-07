@@ -1,11 +1,11 @@
 {
-    "Input File" : "combined.csv",
-    "Input Column Separator" : ";",
+    "Input File" : "combined.tsv",
+    "Input Column Separator" : "\t",
     "Output File" : "output.csv",
-    "Percentage" : 1,
+    "Percentage" : 0.2,
     "N_samples" : 2000,
     "Features" : {
-        "Cancer Type Detailed" : ["categorical", ""], 
+        "Cancer Type Detailed" : ["categorical", ""],
         "Mutation Count" : ["numerical", "integer"],
         "Oncotree Code" : ["categorical", ""],
         "Overall Survival (Months)" : ["numerical", "float"],
