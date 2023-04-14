@@ -17,7 +17,7 @@ These are the configurable parameters:
 * Percentage: A floating point number, which designates the percentage of non-NaN in input to be taken into account. The maximum percentage of non-numeric types that you want to allow in any column in input, as float, ranging from 0.0 to 1.0.
 entries a column must have to be considered for data generation. 
 * n_samples: The number of new lines of data the program should generate for you, given as positive integer.
-* Features: The headers of the colums of your input file you want to include in the new data as value pairs. Each feature is a key, where the value pair can be either "categorical" and then none type or a "numerical" value and then the appropriate data type (float|int). 
+* Features: The headers of the columns of your input file you want to include in the new data as value pairs. Each feature is a key, where the value pair can be either "categorical" and then none type or a "numerical" value and then the appropriate data type (float|int). 
 
 
 Software versions:
