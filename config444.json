@@ -1,0 +1,26 @@
+{
+    "Input File" : "difgglass2019mut.tsv",
+    "Input Column Separator" : "\t",
+    "Output File" : "output.csv",
+    "Percentage" : 1,
+    "N_samples" : 400,
+    "Features" : {
+		"Oncotree Code" : ["categorical", ""],
+		"Sample Type" : ["categorical", ""],
+		"Mutation Count" : ["numerical", "integer"],
+        "Overall Survival (Months)" : ["numerical", "float"],
+		"Overall Survival Status" : ["categorical", ""],
+        "Neoplasm Histologic Grade" : ["categorical", ""],
+		"Histology" : ["categorical", ""],
+		"Grade" : ["categorical", ""],
+		"Time to first recurrence (months)" : ["numerical", "integer"],
+		"Age at First Diagnosis" : ["numerical", "integer"],
+        "TERT" : ["categorical", ""],
+        "IDH1" : ["categorical", ""],
+		"IDHstatus" : ["categorical", ""],
+        "PTEN" : ["categorical", ""],
+        "TP53" : ["categorical", ""],
+		"ATRX" : ["categorical", ""],
+		"TTN" : ["categorical", ""]
+    }
+}
