@@ -25,5 +25,6 @@ Software versions:
 See [requirements.txt](https://github.com/dude2033/data_synthesizer/blob/master/requirements.txt).
 
 Examples:
+-
 The example [config.json](https://github.com/dude2033/data_synthesizer/blob/master/config.json) references a glioma dataset [combined.tsv](https://github.com/dude2033/data_synthesizer/blob/master/combined.tsv), collected from cbioportal and used in ["Gashi M, Vuković M, Jekic N, Thalmann S, Holzinger A, Jean-Quartier C, Jeanquartier F. State-of-the-Art Explainability Methods with Focus on Visual Analytics Showcased by Glioma Classification. BioMedInformatics. 2022; 2(1):139-158. https://doi.org/10.3390/biomedinformatics2010009"](https://www.mdpi.com/1455988).
 There are also other config possibilties available via [config2967.json](https://github.com/dude2033/data_synthesizer/blob/master/config2967.json) and [config444.json](https://github.com/dude2033/data_synthesizer/blob/master/config444.json).
